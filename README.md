@@ -28,19 +28,19 @@ Bishkek and in parallel I am mastering new technologies.
 ### :information_desk_person: Social network:
 
  <div id="badges">
-  <a href="https://www.linkedin.com/in/adinay-baltabaeva-96536a293/">
+  <a href="https://www.linkedin.com/in/abdulbosit-tohtasinov-70b0a3256/">
     <img width="50px" src="assets/images/icons8-линкедин-96.png" alt="Linkedin">
   </a>
 
-  <a href="https://t.me/adinai_baltabaeva">
+  <a href="https://t.me/Abdulbosit_01">
     <img width="50px" src="assets/images/icons8-логотип-telegram-96.png" alt="Telegram">
   </a>
 
-  <a href="https://angelizada243@gmail.com">
+  <a href="https://toktasinov200500@gmail.com">
     <img width="50px" src="assets/images/icons8-gmail-96.png" alt="Gmail">
   </a>
 
-  <a href="https://www.instagram.com/adiinay_/">
+  <a href="https://www.instagram.com/__tohtasinov__/">
 <img width="50px" scr="assets/images/instagram.jpg">
 </a>
   </div>
@@ -71,7 +71,6 @@ Bishkek and in parallel I am mastering new technologies.
 
 <!-- ## :fist_raised: Codewars:
 
-![codewars](https://www.codewars.com/users/AdinayBltbv/badges/large)
 
 ## :fist_raised: Leetcode:
 
