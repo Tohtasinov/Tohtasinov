@@ -1,11 +1,11 @@
-# Hi, my name is Adinai
+## Hi, my name is Abdulbosit!
 
 ---
 
-## :man_technologist: About me
+### :man_technologist: About me:
 
-My name is Adinai Baltabaeva, I am an aspiring Frontend developer. I started to be
-interested in the world of IT in 2021, and a year later I entered Bishkek State University in the direction of "IT-technology and Korean language". After completing my first course, I came to the conclusion that programming was what I wanted to do in the future, so I soon enrolled in an intensive "Frontend Development" course.
+My name is Abdulbosit Tukhtasinov, I am an aspiring Frontend developer. I started to be
+interested in the world of IT in 2021, and a year later I entered Kyrgyz State Technical University in the direction of "Information security ". After completing my first course, I came to the conclusion that programming was what I wanted to do in the future, so I soon enrolled in an intensive "Frontend Development" course.
 At the moment I am interning in ADA company in
 Bishkek and in parallel I am mastering new technologies.
 
@@ -20,8 +20,8 @@ Bishkek and in parallel I am mastering new technologies.
 - :triumph: I am an intern at an ADA Company.
 
 - :point_right: How to contact me:
-  [![Telegram Badge](https://img.shields.io/badge/adinai-baltabaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rohaanDe)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:angelizada243@gmail.com)
+  [![Telegram Badge](https://img.shields.io/badge/abdulbosit_01-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Abdulbosit_01)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:toktasinov200500@gmail.com)
 
 ---
 
@@ -69,12 +69,12 @@ Bishkek and in parallel I am mastering new technologies.
   <img width="50px" src="assets/images/redux-devtools.png" alt="Redux Devtools">
 </div>
 
-## :fist_raised: Codewars:
+<!-- ## :fist_raised: Codewars:
 
 ![codewars](https://www.codewars.com/users/AdinayBltbv/badges/large)
 
 ## :fist_raised: Leetcode:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AdinayBltbv)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AdinayBltbv)](https://github.com/KnlnKS/leetcode-stats) -->
 
 <!-- ## :writing_hand: GitHub statistics
